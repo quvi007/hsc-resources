@@ -1,0 +1,17 @@
+body {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  .chapter-title {
+    font-weight: 600;
+  }
+  .btn-download {
+    margin: 2px;
+  }
+  .table thead th {
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  .table td {
+    vertical-align: middle;
+  }
